@@ -2,13 +2,15 @@
 
 Hier gibt es die aktuelle Version von **IPTV One** zum Herunterladen.
 
+**Downloader-Code: `3027895`** (oder aftv.news/3027895)
+
 **Download (immer die neueste Version):**
 https://github.com/IliasAk91/iptv-one-releases/releases/latest/download/IPTV-One.apk
 
 ## Installation auf dem Fire TV
 1. Im Amazon-Store die kostenlose App **Downloader** installieren.
 2. *Einstellungen → Mein Fire TV → Entwickleroptionen → Apps unbekannter Herkunft* → **Downloader** erlauben.
-3. In Downloader den Link oben eingeben und die App installieren.
+3. In Downloader den Code **3027895** eingeben und die App installieren.
 
 Updates meldet die App danach selbst.
 
